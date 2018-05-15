@@ -74,7 +74,7 @@ class App extends React.Component {
     // make sure we keep our scope to App
     return (
       <div>
-        <h1>My cool App</h1>
+        <h1>My learning App</h1>
         {
           (this.state.user) ?
             <Welcome
